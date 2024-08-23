@@ -33,7 +33,7 @@ const Home = () => {
     title2="up"
     artist="Tiwa Savage"/>
     <CardSmall
-    imgSrc={Kizz}
+    imgSrc={Kiss}
     imgAlt="wizkid"
     title1="Meta"
     title2="Verse"
