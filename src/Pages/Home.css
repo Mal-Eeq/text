@@ -1,0 +1,7 @@
+#card-div{
+  display: flex;
+  align-items: center;
+  gap: 80px;
+  justify-content: center;
+  margin-top: 100px;
+}
